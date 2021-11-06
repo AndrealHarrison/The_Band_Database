@@ -9,6 +9,16 @@
         <item>David Bowie</item>
         <item>The Doors</item>
         <item>Led Zeppelin</item>
+        <item>Fleetwood Mac</item>
+        <item>The Smashing Pumpkins</item>
+        <item>Radiohead</item>
+        <item>The Rolling Stones</item>
+        <item>The Who</item>
+        <item>Pink Floyd</item>
+        <item>Queen</item>
+        <item>Prince</item>
+        <item>Pearl Jam</item>
+        <item>Jimi Hendrix</item>
     </string-array>
 
     <string-array name="descriptions">
@@ -18,5 +28,15 @@
         <item>A British singer songwriter and actor</item>
         <item>An American rock band formed in LA in 1965</item>
         <item>An English rock band formed in London in 1968</item>
+        <item>A British-American rock band formed in London in 1967</item>
+        <item>An American alternative rock band from Chicago formed in 1988</item>
+        <item>An English rock band formed in 1985</item>
+        <item>An English rock band formed in London in 1962</item>
+        <item>An English rock band formed in London in 1964</item>
+        <item>An English rock band formed in London in 1964</item>
+        <item>A British rock band formed in London in 1970</item>
+        <item>An American singer-songwriter, multi instrumentalist, and record producer</item>
+        <item>An American rock band formed in Seattle in 1990</item>
+        <item>An American musician, singer, and songwriter. He became famous in 1967</item>
     </string-array>
 </resources>
