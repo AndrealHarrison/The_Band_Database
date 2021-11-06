@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">The Band Database</string>
+    <string name="details">Details</string>
+
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>David Bowie</item>
+        <item>The Doors</item>
+        <item>Led Zeppelin</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>A British singer songwriter and actor</item>
+        <item>An American rock band formed in LA in 1965</item>
+        <item>An English rock band formed in London in 1968</item>
+    </string-array>
+</resources>
