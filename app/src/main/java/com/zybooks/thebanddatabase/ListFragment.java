@@ -30,7 +30,7 @@ public class ListFragment extends Fragment {
             if (detailFragmentContainer == null) {
 
                 // Replace list with details
-            Navigation.findNavController(itemView).navigate(R.id.show_item_detail, args);
+                Navigation.findNavController(itemView).navigate(R.id.show_item_detail, args);
             } else {
                 // Show details on the right
                 Navigation.findNavController(detailFragmentContainer)
