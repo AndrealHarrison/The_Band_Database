@@ -1,7 +1,16 @@
 <resources>
-    <string name ="settings">Settings</string>
+    <string name="settings">Settings</string>
     <string name="app_name">The Band Database</string>
     <string name="details">Details</string>
+    <string name="messages">Messages</string>
+    <string name="signature">Your Signature</string>
+    <string name="notSet">Not set</string>
+    <string name="ReplyAction">Default reply action</string>
+    <string name="reply">Reply</string>
+    <string name="sync">Sync</string>
+    <string name="syncPeriodically">Sync email periodically</string>
+    <string name="download">Download incoming attachments</string>
+    <string name="OnlyDownload">Only download attachments when manually requested</string>
 
     <string-array name="bands">
         <item>The Beatles</item>

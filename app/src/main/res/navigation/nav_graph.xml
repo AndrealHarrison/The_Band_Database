@@ -29,6 +29,6 @@
     <fragment
         android:id="@+id/settings_fragment"
         android:name="com.zybooks.thebanddatabase.settings_fragment"
-        android:label="fragment_settings_fragment"
+        android:label="settings_fragment"
         tools:layout="@layout/fragment_settings_fragment" />
 </navigation>
